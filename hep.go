@@ -9,7 +9,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"net"
-	sipparser github.com/spaghetty/sip_parser
+	sipparser "github.com/spaghetty/sip_parser"
 )
 
 /*************************************
