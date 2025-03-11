@@ -3,7 +3,7 @@
 * Courtesy of Weave Communications, Inc (http://getweave.com/) under the ISC license (https://en.wikipedia.org/wiki/ISC_license)
 **/
 
-package hep
+package hep-go
 
 import (
 	"encoding/binary"
