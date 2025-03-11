@@ -1,4 +1,4 @@
-module github.com/dOpensource/hep-go
+module github.com/dOpensource/hep
 
 go 1.23.4
 
