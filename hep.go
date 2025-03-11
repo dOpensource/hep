@@ -9,8 +9,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"net"
-
-	"github.com/dgv/sipparser"
+	"sipparser"
 )
 
 /*************************************
